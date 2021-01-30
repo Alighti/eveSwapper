@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eveSwapper", "eveSwapper.csproj", "{B57A4FBB-E1CE-4623-9923-6DB854EF0F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57A4FBB-E1CE-4623-9923-6DB854EF0F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57A4FBB-E1CE-4623-9923-6DB854EF0F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57A4FBB-E1CE-4623-9923-6DB854EF0F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57A4FBB-E1CE-4623-9923-6DB854EF0F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28727AA8-A09F-4C42-ADEE-0CDE845D6EA5}
+	EndGlobalSection
+EndGlobal
