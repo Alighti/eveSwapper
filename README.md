@@ -6,4 +6,4 @@ an instagram swapper, written in C#, using RestSharp library
 
 # About
 
-Instagram : @0xCookieizi - Discord : despressed#0888
+Instagram : @0xCookieizi - Discord : depressed#0888
