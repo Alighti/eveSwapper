@@ -136,4 +136,6 @@ namespace eveSwapper
             return new string(Enumerable.Repeat("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789".ToLower(), length).Select((Func<string, char>)((string s) => s[random.Next(s.Length)])).ToArray());
         }
     }
-}
+}1
+
+1
